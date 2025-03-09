@@ -1,4 +1,4 @@
-# Sistema de login usando chaves privadas como modo de login
+# Sistema de login usando chaves privadas como modo de login e Hash para criptografia das senhas
 
 Um sistema bem simples de login usando python com alguns detalhes, usei as seguintes bibliotecas
 
